@@ -34,10 +34,15 @@ Environment solved in 772 episodes!	Average Score: 15.03
 
 ### Following hyperparameters were used for the DQN Agent-
 BUFFER_SIZE = int(1e5)  # replay buffer size
+
 BATCH_SIZE = 64         # minibatch size
+
 GAMMA = 0.99            # discount factor
+
 TAU = 1e-3              # for soft update of target parameters
+
 LR = 5e-4               # learning rate 
+
 UPDATE_EVERY = 4        # how often to update the network
 
 ### Ideas for Future Work
