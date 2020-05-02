@@ -1,5 +1,5 @@
 
-[image1]: https://user-images.githubusercontent.com/10624937/42135619-d90f2f28-7d12-11e8-8823-82b970a54d7e.gif "Trained Agent"
+[image1]: https://github.com/nitink12/DeepReinforcementLearningNanoDegree/blob/master/P1_Navigation/images/training.png "Training"
 
 # Udacity Deep Reinforcement Learning Nanodegree
 ## Project 1: Navigation - report
@@ -21,7 +21,7 @@ Episode 800	Average Score: 14.57
 Episode 872	Average Score: 15.03
 Environment solved in 772 episodes!	Average Score: 15.03
 
-![Trained Agent][image1]
+![Training][image1]
 
 ### Ideas for Future Work
 * Implement Prioritize Experience Replay
