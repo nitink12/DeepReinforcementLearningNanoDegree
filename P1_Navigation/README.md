@@ -6,7 +6,7 @@
 
 ### Introduction
 
-For this project, you will train an agent to navigate (and collect bananas!) in a large, square world.  
+For this project, we are going to train an agent to navigate (and collect bananas!) in a large, square world.  
 
 ![Trained Agent][image1]
 
@@ -29,7 +29,7 @@ The task is episodic, and in order to solve the environment, your agent must get
 
 
 ## Project's goal
-The goal for the project is for the to collect as many yellow bananas as possible while avoiding blue bananas. The task is episodic, and in order to solve the environment, the agent must get a minimum average score of +13 over 100 consecutive episodes.
+The goal for the project is to collect as many yellow bananas as possible while avoiding blue bananas. The task is episodic, and in order to solve the environment, the agent must get a minimum average score of +13 over 100 consecutive episodes.
 
 ### Getting Started
 
